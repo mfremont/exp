@@ -3,3 +3,6 @@ def f0():
 
 def f1():
     pass
+
+def f2():
+    pass
